@@ -4,7 +4,7 @@ import React from 'react';
 const Greet = () => {
   return (
     <View style={styles.greet}>
-      <Text style={styles.text}>Hello welcome to CI/CD Course</Text>
+      <Text style={styles.text}>Hello welcome to CI/CD for React Native Course</Text>
     </View>
   );
 };
